@@ -4,7 +4,7 @@
     "url": "https://nutshell.live",
     "icon": "https://favicons.githubusercontent.com/nutshell.live",
     "slug": "nutshell-live",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 178,
     "timeMonth": 155,
     "timeYear": 139,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-26": 0
+    }
   }
 ]

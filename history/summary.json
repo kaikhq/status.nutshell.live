@@ -4,19 +4,19 @@
     "url": "https://nutshell.live",
     "icon": "https://favicons.githubusercontent.com/nutshell.live",
     "slug": "nutshell-live",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 139,
-    "timeDay": 182,
-    "timeWeek": 178,
-    "timeMonth": 155,
-    "timeYear": 139,
+    "time": 140,
+    "timeDay": 253,
+    "timeWeek": 158,
+    "timeMonth": 162,
+    "timeYear": 140,
     "dailyMinutesDown": {
-      "2022-06-26": 0
+      "2022-06-26": 7
     }
   }
 ]

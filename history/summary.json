@@ -2,7 +2,7 @@
   {
     "name": "Nutshell Live",
     "url": "https://nutshell.live",
-    "icon": "https://favicons.githubusercontent.com/nutshell.live",
+    "icon": "https://icons.duckduckgo.com/ip3/nutshell.live.ico",
     "slug": "nutshell-live",
     "status": "up",
     "uptime": "100.00%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 146,
-    "timeDay": 56,
+    "timeDay": 185,
     "timeWeek": 117,
-    "timeMonth": 181,
+    "timeMonth": 182,
     "timeYear": 146,
     "dailyMinutesDown": {}
   }

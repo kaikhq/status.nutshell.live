@@ -4,17 +4,19 @@
     "url": "https://nutshell.live",
     "icon": "https://icons.duckduckgo.com/ip3/nutshell.live.ico",
     "slug": "nutshell-live",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 155,
-    "timeDay": 195,
-    "timeWeek": 137,
+    "timeDay": 189,
+    "timeWeek": 143,
     "timeMonth": 197,
     "timeYear": 149,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-09": 0
+    }
   }
 ]
